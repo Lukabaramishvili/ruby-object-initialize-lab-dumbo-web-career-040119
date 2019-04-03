@@ -1,6 +1,7 @@
 class Dog 
-  def initialize(breed)
+  def initialize(breed, none)
     @breed=breed
+    @breed="Mutt"
   end
   
 end 
